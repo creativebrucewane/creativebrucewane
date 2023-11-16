@@ -5,7 +5,7 @@ Hello! I'm Bruce Wane, a dynamic and creative individual from Switzerland. My pa
 
 ## 🐧 Linux Enthusiast
 - **Why I Love Linux**: Linux is not just an operating system for me; it's a gateway to endless possibilities in technology.
-- **Favorite Distributions**: I'll share my favorite Linux distributions and the unique aspects of each.
+- **Favorite Distributions**: Arch Linux, Kali Linux.
 - **Linux Projects**: My contributions to the Linux community reflect my commitment to open-source and collaborative development.
 
 ## 💻 Development and Coding
